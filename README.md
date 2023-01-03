@@ -145,7 +145,7 @@ It is about:
 - Apr 11 T - [RNAseq lab](), HW: [PCA]()
 - Apr 13 R - [Neural Network (NN)](), HW: [NN]()
 - Apr 18 T - [Convolutional Neural Network (CNN)](), HW: [CNN]()
-- Apr 20 R - [Long/Short Term Memory (LSTM) Recurrent Neural Networks (RNN)]()
+- Apr 20 R - [Long/Short Term Memory (LSTM) Recurrent Neural Network (RNN)]()
 
 # Setup your Python environment
 ## 1. Install Conda
