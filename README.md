@@ -116,15 +116,15 @@ It is about:
 # Syllabus
 **!!! WARNING !!!** *The syllabus is subject to change as the course progresses depending on my judgement.* This is because I modify my course every year to make it that much better for you. That said, the current syllabus is at least a reasonable approximation of what the final course will look like.
 
-- Jan 10 T - [Python environment](/python-setup.md) & [Python basic syntax 1](/python-basics-1.ipynb), HW: [basics]()
-- Jan 12 R - [Python basic syntax 2](/python-basics-2.ipynb), HW: [list slicing & iteration]()
+- Jan 10 T - [Python ecosystem](/python-ecosystem.pptx) & [Python basics](/python-basics-1.ipynb), HW: [python basics]()
+- Jan 12 R - [Python lists & functions](/python-basics-2.ipynb), HW: [list slicing & iteration]()
 - Jan 17 T - [Multi-dimensional data arrays](), HW: [numpy arrays]()
 - Jan 19 R - [Data visualization]() & [Random walk lab](), HW: [random walk simulation]()
 - Jan 24 T - [Probability distributions of random variables](), HW: [probability distributions]()
 - Jan 26 R - [Optimization & Maximum Likelihood Estimation (MLE)](), HW: [MLE]()
 - Jan 31 T - [Hypothesis testing]() & [Statistical rigor](), HW: [p-values & effect sizes]()
 - Feb 02 R - [Bootstrap]() & [Permutation test](), HW: [bootstrap & permutation test]()
-- Feb 07 T - [Numba]() & [Python basic syntax 3](/python-basics-3.ipynb), HW: [numba]()
+- Feb 07 T - [Numba]() & [Python classes & modules](/python-basics-3.ipynb), HW: [numba]()
 - Feb 09 R - [Convolution](), [Sequence data & sampling artifacts](), HW: [convolution & filtering]()
 - Feb 14 T - [Leaky Integrate & Fire (LIF) neuron](), HW: [LIF neuron simulation]()
 - Feb 16 R - [Hidden Markov Model (HMM) for ion channel](), HW: [ion channel HMM]()
