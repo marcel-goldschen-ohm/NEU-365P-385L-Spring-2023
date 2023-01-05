@@ -117,7 +117,7 @@ It is about:
 **!!! WARNING !!!** *The syllabus is subject to change as the course progresses depending on my judgement.* This is because I modify my course every year to make it that much better for you. That said, the current syllabus is at least a reasonable approximation of what the final course will look like.
 
 - Jan 10 T - [Python ecosystem](/python-ecosystem.pptx) & [Python basics 1](/python-basics-1.ipynb), HW: [Python basics](/hw-python-basics.ipynb)
-- Jan 12 R - [Python basics 2: Lists, mutations & functions](/python-basics-2.ipynb), HW: [List slicing & iteration](/hw-list-index-iter.ipynb)
+- Jan 12 R - [Python basics 2: Lists, mutations & functions](/python-basics-2.ipynb), HW: [Lists & functions](/hw-lists-functions.ipynb)
 - Jan 17 T - [Multi-dimensional data arrays](), HW: [NumPy arrays](/hw-numpy.ipynb)
 - Jan 19 R - [Data visualization]() & [Random walk lab](), HW: [Random walks](/hw-random-walk.ipynb)
 - Jan 24 T - [Probability distributions of random variables](), HW: [Probability distributions](/hw-prob-dist.ipynb)
