@@ -192,6 +192,10 @@ You can see a list of all your conda environments with:
 ```
 conda env list
 ```
+You can see a list of all installed packages in your active environment with:
+```
+conda list
+```
 
 ## 4. Open JupyterLab
 JupyterLab is a complete Python coding user interface that supports Jupyter notebooks (which we will use in this course). It runs in a tab in your browser.
