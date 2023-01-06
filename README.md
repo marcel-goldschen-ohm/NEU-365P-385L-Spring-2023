@@ -163,29 +163,22 @@ conda config --show channels
 Note that this configuration is optional. You can always specify the channel to search when installing packages on a per package basis. An example of this is shown in the next step.
 
 ## 3. Create a sandboxed Python environment for this course
-In a cmd shell or terminal run:
+First, create a new conda environemnt named "neu365p". In a cmd shell or terminal run:
 ```
 conda create -n neu365p
 ```
-This creates a new conda environemnt named "neu365p".
-
-Next, run:
+Next, set "neu365p" as the active environment for all conda commands. Run:
 ```
 conda activate neu365p
 ```
-This sets "neu365p" as the active environment for all conda commands.
-
-Next, run:
+Now install the latest version of the `python` package (from the defaults channel) into the active ("neu365p") environment.
 ```
 conda install python
 ```
-This installs the latest version of the `python` package (from the defaults channel) into the active ("neu365p") environment.
-
-Next, run:
+Finally, install the latest version of the `jupyterlab` package (from the conda-forge channel) into the active ("neu365p") environment.
 ```
 conda install jupyterlab -c conda-forge
 ```
-This installs the latest version of the `jupyterlab` package (from the conda-forge channel) into the active ("neu365p") environment.
 
 *Note that if you configured conda to automatically search the conda-forge channel, then you could omit the `-c conda-forge` portion of the last command.*
 
