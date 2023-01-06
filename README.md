@@ -200,12 +200,15 @@ conda list
 ## 4. Open JupyterLab
 JupyterLab is a complete Python coding user interface that supports Jupyter notebooks (which we will use in this course). It runs in a tab in your browser.
 
-In a cmd shell or terminal run:
+Open a cmd shell or terminal and make sure your "neu365p" environment is active:
 ```
 conda activate neu365p
+```
+Next, in a cmd shell or terminal where "neu365p" is active run:
+```
 jupyter-lab
 ```
-This activates your neu365p conda environment (you can omit this if it is already active) and runs JupyterLab from the neu365p environment. **JupyterLab will open up a tab in your browser with a complete user interface** for writing and running Python code.
+This will start **JupyterLab which will open up a tab in your browser with a complete user interface** for writing and running Python code.
 
 When you are done using JupyterLab, from within the JupyterLab browser interface select `File->Shutdown`.
 
