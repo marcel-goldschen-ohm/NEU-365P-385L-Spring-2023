@@ -223,4 +223,13 @@ There are a variety of user interfaces for Python coding from the most basic tex
 *It does NOT matter which user interface you use.* Both JupyterLab and VSCode will give you a pretty similar experience.
 
 # Resources
-- [Python beginner basics](https://www.tutorialsteacher.com/python)
+- [Python Beginner Basics](https://www.tutorialsteacher.com/python): This looks like a good resource for Python basics.
+- [Python Challenges](http://www.pythonchallenge.com): Fun way to test your Python skills.
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook): This is a good resource for many of the topics covered in this course.
+- [Statistics Done Wrong](https://www.statisticsdonewrong.com): You should read this.
+- [Neuromatch Academy](https://compneuro.neuromatch.io/tutorials/intro.html): Online course in computational neuroscience with acompanying videos and Python tutorials.
+- [Computational Neuroscience](https://mrgreene09.github.io/computational-neuroscience-textbook/index.html): Reletively short book providing an introduction along with Python examples for a variety of topics related to this course.
+- [Modern Machine Learning Algorithms: Strengths and Weaknesses](https://elitedatascience.com/machine-learning-algorithms) Breif overview of strengths and weaknesses of many of the machine learning algorithms covered in this course.
+- [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf): Very good intro to fairly complex statistical methods with very little math. Example code is in R, but explanations are helpful in general. Note that this is a bit longer and more indepth, and is more about understanding statistical methods than coding.
+- [Deep Learning Online Book](https://www.deeplearningbook.org/): Requires some comfort with mathematics.
+- [List of neuroscience databases](https://en.wikipedia.org/wiki/List_of_neuroscience_databases)
