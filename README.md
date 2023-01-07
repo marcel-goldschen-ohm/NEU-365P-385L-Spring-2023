@@ -234,4 +234,4 @@ There are a variety of user interfaces for Python coding from the most basic tex
 - [Deep Learning Online Book](https://www.deeplearningbook.org/): Requires some comfort with mathematics.
 - [List of neuroscience databases](https://en.wikipedia.org/wiki/List_of_neuroscience_databases)
 
-If you know of other great resources, please let me know and/or share them on the course fiscussion board!
+If you know of other great resources, please let me know and/or share them on the course discussion board!
