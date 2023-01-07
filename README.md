@@ -21,6 +21,7 @@ NEU 365P/385L - Spring 2023
 - [Programming Rules of Thumb](#programming-rules-of-thumb)
 - [Syllabus](#syllabus)
 - [Setup your Python environment](#setup-your-python-environment)
+- [Resources](#resources)
 
 # Course Objective
 *The ability to read and write are obvious fundamental skills critical to all academic and quantitative pursuits.* **Fast approaching this level of fundamental importance is the ability to write computer programs to analyze and manipulate data sets ever increasing in richness and size.** This skillset is necessary to work with a wide array of systems whose models and behavior are sufficiently complex to make analysis by hand intractable.
