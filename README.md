@@ -220,3 +220,6 @@ There are a variety of user interfaces for Python coding from the most basic tex
 4. In VSCode you can also set the Python interpreter for each individual file. When you open a Python file the interpreter will be displayed in one of the corners. Make sure it is set to the Python version associated with neu365p, otherwise click the displayed interpreter and select from the dropdown the one for neu365p.
 
 *It does NOT matter which user interface you use.* Both JupyterLab and VSCode will give you a pretty similar experience.
+
+# Resources
+- [Python beginner basics](https://www.tutorialsteacher.com/python)
