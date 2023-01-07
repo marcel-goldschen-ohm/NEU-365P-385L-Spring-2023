@@ -233,3 +233,5 @@ There are a variety of user interfaces for Python coding from the most basic tex
 - [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf): Very good intro to fairly complex statistical methods with very little math. Example code is in R, but explanations are helpful in general. Note that this is a bit longer and more indepth, and is more about understanding statistical methods than coding.
 - [Deep Learning Online Book](https://www.deeplearningbook.org/): Requires some comfort with mathematics.
 - [List of neuroscience databases](https://en.wikipedia.org/wiki/List_of_neuroscience_databases)
+
+If you know of other great resources, please let me know and/or share them on the course fiscussion board!
