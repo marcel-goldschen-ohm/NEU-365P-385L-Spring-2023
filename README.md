@@ -120,7 +120,7 @@ It is about:
 - Jan 10 T - [Python ecosystem](/python-ecosystem.pptx) & [Python basics 1](/python-basics-1.ipynb), HW: [Python basics](/hw-python-basics.ipynb)
 - Jan 12 R - [Python basics 2: Lists, mutations & functions](/python-basics-2.ipynb), HW: [Lists & functions](/hw-lists-functions.ipynb)
 - Jan 17 T - [Multi-dimensional data arrays](), HW: [NumPy arrays](/hw-numpy.ipynb)
-- Jan 19 R - [Data visualization]() & [Random walk lab](), HW: [Random walks](/hw-random-walk.ipynb)
+- Jan 19 R - [Data visualization]() & [Random walk lab](), HW: [Random walk](/hw-random-walk.ipynb)
 - Jan 24 T - [Probability distributions of random variables](), HW: [Probability distributions](/hw-prob-dist.ipynb)
 - Jan 26 R - [Optimization & Maximum Likelihood Estimation (MLE)](), HW: [MLE](/hw-mle.ipynb)
 - Jan 31 T - [Hypothesis testing]() & [Statistical rigor](), HW: [p-values & effect sizes](/hw-stats-rigor.ipynb)
