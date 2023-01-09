@@ -119,8 +119,8 @@ It is about:
 
 - Jan 10 T - [Python ecosystem](/python-ecosystem.pptx) & [Python basics 1](/python-basics-1), HW: [Python basics](/assignments/hw-python-basics.ipynb)
 - Jan 12 R - [Python basics 2: Lists, mutations & functions](/python-basics-2), HW: [Lists & functions](/assignments/hw-lists-functions.ipynb)
-- Jan 17 T - [Multi-dimensional data arrays](/numpy-ndarrays/numpy-ndarrays.ipynb), HW: [NumPy arrays](/assignments/hw-numpy.ipynb)
-- Jan 19 R - [Data visualization](/matplotlib-data-visualization/matplotlib-data-visualization.ipynb) & [Random walk lab](/random-walk-lab/random-walk-lab.ipynb), HW: [Random walk](/assignments/hw-random-walk.ipynb)
+- Jan 17 T - [Multi-dimensional data arrays](/numpy-ndarrays), HW: [NumPy arrays](/assignments/hw-numpy.ipynb)
+- Jan 19 R - [Data visualization](/matplotlib-data-visualization) & [Random walk lab](/random-walk-lab), HW: [Random walk](/assignments/hw-random-walk.ipynb)
 - Jan 24 T - [Probability distributions of random variables](), HW: [Probability distributions](/assignments/hw-prob-dist.ipynb)
 - Jan 26 R - [Optimization & Maximum Likelihood Estimation (MLE)](), HW: [MLE](/assignments/hw-mle.ipynb)
 - Jan 31 T - [Hypothesis testing]() & [Statistical rigor](), HW: [p-values & effect sizes](/assignments/hw-stats-rigor.ipynb)
