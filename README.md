@@ -21,6 +21,7 @@ NEU 365P/385L - Spring 2023
 - [Programming Rules of Thumb](#programming-rules-of-thumb)
 - [Syllabus](#syllabus)
 - [Setup your Python environment](#setup-your-python-environment)
+- [Keep up-to-date with the course GitHub repository](#keep-up-to-date-with-the-course-github-repository)
 - [Resources](#resources)
 
 # Course Objective
