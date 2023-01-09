@@ -222,6 +222,14 @@ There are a variety of user interfaces for Python coding from the most basic tex
 
 *It does NOT matter which user interface you use.* Both JupyterLab and VSCode will give you a pretty similar experience.
 
+# Keep up-to-date with the course GitHub repository
+1. Create a [GitHub](https://github.com) account for yourself (it's free). 
+2. Download the [GitHub Desktop](https://desktop.github.com) application.
+3. Sign into to GitHub Desktop using your GitHub account credentials.
+4. Go to [the course GitHub repo](https://github.com/marcel-goldschen-ohm/NEU-365P-385L-Spring-2023), click the `<> Code` button in the upper right and choose `Open with GitHub Desktop`. This will open GitHub Desktop on your computer and ask you to choose a location in which to clone (copy) all of the course repo files. When it is done you will have a local copy of the course GitHub repo in a folder on your computer.
+5. Whenever you want to make sure your local copy is an up-to-date reflection of the current online course repo, all you have to do is launch GitHub Desktop, select the repo for this course and click the `Fetch Origin` button in the upper right. If this button changes to `Pull Origin`, that means that there are changes in the online repo that you do not have locally. Just click the `Pull Origin` button and all of the changes including new files in the online repo will be downloaded so that your local repo is an exact copy of the current online course repo.
+6. **!!! WARNING !!!** Whenever you execute Step #5 above, your local repo will become an EXACT COPY of the online course repo. *THIS INCLUDES RESETTING ANY HOMEWORK FILES YOU COMPLETED WITH THE ONLINE BLANK HOMEWORK FILES!* To avoid this, make sure **YOU MOVE YOUR HOMEWORK FILES OUTSIDE OF YOUR LOCAL REPO FOLDER BEFORE YOU WORK ON THEM!**
+
 # Resources
 - [Python Beginner Basics](https://www.tutorialsteacher.com/python): This looks like a good resource for Python basics.
 - [Python Challenges](http://www.pythonchallenge.com): Fun way to test your Python skills.
