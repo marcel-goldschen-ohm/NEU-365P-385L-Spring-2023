@@ -117,8 +117,8 @@ It is about:
 # Syllabus
 **!!! WARNING !!!** *The syllabus is subject to change as the course progresses depending on my judgement.* This is because I modify my course every year to make it that much better for you. That said, the current syllabus is at least a reasonable approximation of what the final course will look like.
 
-- Jan 10 T - [Python ecosystem](/python-ecosystem.pptx) & [Python basics 1](/python-basics-1/), HW: [Python basics](/assignments/hw-python-basics.ipynb)
-- Jan 12 R - [Python basics 2: Lists, mutations & functions](/python-basics-2/python-basics-2.ipynb), HW: [Lists & functions](/assignments/hw-lists-functions.ipynb)
+- Jan 10 T - [Python ecosystem](/python-ecosystem.pptx) & [Python basics 1](/python-basics-1), HW: [Python basics](/assignments/hw-python-basics.ipynb)
+- Jan 12 R - [Python basics 2: Lists, mutations & functions](/python-basics-2), HW: [Lists & functions](/assignments/hw-lists-functions.ipynb)
 - Jan 17 T - [Multi-dimensional data arrays](/numpy-ndarrays/numpy-ndarrays.ipynb), HW: [NumPy arrays](/assignments/hw-numpy.ipynb)
 - Jan 19 R - [Data visualization](/matplotlib-data-visualization/matplotlib-data-visualization.ipynb) & [Random walk lab](/random-walk-lab/random-walk-lab.ipynb), HW: [Random walk](/assignments/hw-random-walk.ipynb)
 - Jan 24 T - [Probability distributions of random variables](), HW: [Probability distributions](/assignments/hw-prob-dist.ipynb)
