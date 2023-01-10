@@ -153,6 +153,8 @@ It is about:
 ## 1. Install Conda
 Download and install the latest version of [Miniconda3](https://docs.conda.io/en/latest/miniconda.html).
 
+*On macOS I suggest using the **pkg** installer as it is the simplest.*
+
 ## 2. Configure Conda
 Conda groups collections of packages into [channels](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/channels.html). Most of the packages that you will install for this course will come from either the defaults or [conda-forge](https://conda-forge.org/docs/user/introduction.html) channels. Conda only searches channels that you tell it to. To setup conda so that it automatically searches the [conda-forge](https://conda-forge.org/docs/user/introduction.html) channel before searching the defaults channel, open a cmd shell or terminal and run:
 ```
