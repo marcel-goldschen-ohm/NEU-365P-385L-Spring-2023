@@ -152,6 +152,7 @@ It is about:
 - Apr 06 R - [Principal Component Analysis (PCA)](), HW: [PCA]()
 - Apr 11 T - [RNAseq lab](), HW: [PCA]()
 - Apr 13 R - [Neural Network (NN)](), HW: [NN]()
+    - 🎬 [Excellent Neural Networks video series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - Apr 18 T - [Convolutional Neural Network (CNN)](), HW: [CNN]()
 - Apr 20 R - [Long/Short Term Memory (LSTM) Recurrent Neural Network (RNN)]()
 
