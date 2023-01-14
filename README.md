@@ -118,63 +118,63 @@ It is about:
 # Syllabus
 **!!! WARNING !!!** *The syllabus is subject to change as the course progresses depending on my judgement.* This is because I modify my course every year to make it that much better for you. That said, the current syllabus is at least a reasonable approximation of what the final course will look like.
 
-- Jan 10 T - [Python ecosystem](/python-ecosystem.pptx) & [Python basics 1](/python-basics-1)
+- Jan 10 T - **[Python ecosystem](/python-ecosystem.pptx) & [Python basics 1](/python-basics-1)**
     - ✏️ [Python basics](/assignments/python-basics-hw.ipynb), 📎 [What can I do with Python?](https://realpython.com/what-can-i-do-with-python/), 📎 [Intro to Jupyter and JupyterLab](https://coderefinery.github.io/jupyter/), 📎 [Intro to Python](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-1-Introduction-to-Python-Programming.ipynb), 📎 [Python beginner tutorials](https://www.tutorialsteacher.com/python), 📎 [Python basics](https://www.learnpython.org), 📎 [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/), 📎 [More Python tutorials](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers), 📎 [Python Tutor](https://pythontutor.com), 📎 [Python for Neuroscience](https://pyforneuro.com/)
-- Jan 12 R - [Python basics 2: Lists, mutations & functions](/python-basics-2)
+- Jan 12 R - **[Python basics 2: Lists, mutations & functions](/python-basics-2)**
     - ✏️ [Lists & functions](/assignments/lists-functions-hw.ipynb), 📎 [Python lists](https://developers.google.com/edu/python/lists), 📎 [List exercises](https://holypython.com/beginner-python-exercises/exercise-6-python-lists/), 📎 [List slicing exercises](https://holypython.com/beginner-python-exercises/exercise-17-python-slicing/)
-- Jan 17 T - [Multi-dimensional data arrays](/numpy-ndarrays)
+- Jan 17 T - **[Multi-dimensional data arrays](/numpy-ndarrays)**
     - ✏️ [NumPy arrays](/assignments/numpy-hw.ipynb), 📎 [A visual intro to NumPy](https://jalammar.github.io/visual-numpy/)
-- Jan 19 R - [Data visualization](/matplotlib-data-visualization) & [Random walk lab](/random-walk-lab)
+- Jan 19 R - **[Data visualization](/matplotlib-data-visualization) & [Random walk lab](/random-walk-lab)**
     - ✏️ [Random walk](/assignments/random-walk-hw.ipynb)
-- Jan 24 T - [Probability distributions of random variables]()
+- Jan 24 T - **[Probability distributions of random variables]()**
     - ✏️ [Probability distributions](/assignments/prob-dist-hw.ipynb), 🎬 [Probability density and normal distribution](https://www.youtube.com/watch?v=CVjr-Dox3Ck), 🎬 [Standard error](https://www.youtube.com/watch?v=A82brFpdr9g&list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR&index=36)
-- Jan 26 R - [Optimization & Maximum Likelihood Estimation (MLE)]()
+- Jan 26 R - **[Optimization & Maximum Likelihood Estimation (MLE)]()**
     - ✏️ [MLE](/assignments/mle-hw.ipynb), 🎬 [Probability vs. likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4), 🎬 [Maximum likelihood estimation](https://www.youtube.com/watch?v=XepXtl9YKwc)
-- Jan 31 T - [Hypothesis testing]() & [Statistical rigor]()
+- Jan 31 T - **[Hypothesis testing]() & [Statistical rigor]()**
     - ✏️ [p-values & effect sizes](/assignments/stats-rigor-hw.ipynb)
-- Feb 02 R - [Bootstrap]() & [Permutation test]()
+- Feb 02 R - **[Bootstrap]() & [Permutation test]()**
     - ✏️ [bootstrap & permutation test](/assignments/bootstrap-permutation-hw.ipynb)
-- Feb 07 T - [Numba]() & [Python basics 3: Classes & modules](/python-basics-3.ipynb)
+- Feb 07 T - **[Numba]() & [Python basics 3: Classes & modules](/python-basics-3.ipynb)**
     - ✏️ [Numba](/assignments/numba-hw.ipynb), 🎬 [An opinion on classes and object-oriented programming (OOP)](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
-- Feb 09 R - [Convolution](), [Sequence data & sampling artifacts]()
+- Feb 09 R - **[Convolution](), [Sequence data & sampling artifacts]()**
     - ✏️ [convolution & filtering]()
-- Feb 14 T - [Leaky Integrate & Fire (LIF) neuron]()
+- Feb 14 T - **[Leaky Integrate & Fire (LIF) neuron]()**
     - ✏️ [LIF neuron simulation]()
-- Feb 16 R - [Hidden Markov Model (HMM) for ion channel]()
+- Feb 16 R - **[Hidden Markov Model (HMM) for ion channel]()**
     - ✏️ [ion channel HMM]()
-- Feb 21 T - [HMM for DNA sequence]()
+- Feb 21 T - **[HMM for DNA sequence]()**
     - ✏️ [nucleotide sequence HMM]()
-- Feb 23 R - VIDEO ONLY - [Data tables]()
+- Feb 23 R - VIDEO ONLY - **[Data tables]()**
     - ✏️ [pandas dataframes]()
-- Feb 28 T - [Linear regression]()
+- Feb 28 T - **[Linear regression]()**
     - ✏️ [linear regression]()
-- Mar 02 R - [Polynomial & K-Nearest Neighbors (KNN) regression]()
+- Mar 02 R - **[Polynomial & K-Nearest Neighbors (KNN) regression]()**
     - ✏️ [polynomial & KNN regression]()
-- Mar 07 T - [Bias/Variance tradeoff](), [Train/Test split]() & [Cross validation]()
+- Mar 07 T - **[Bias/Variance tradeoff](), [Train/Test split]() & [Cross validation]()**
     - ✏️ [cross validation]()
-- Mar 09 R - [Regularization]()
+- Mar 09 R - **[Regularization]()**
     - ✏️ [ridge & lasso regularization]()
 - Mar 14 T - SPRING BREAK
 - Mar 16 R - SPRING BREAK
-- Mar 21 T - [Generalized Linear Model (GLM): Poisson & Logistic regression]()
+- Mar 21 T - **[Generalized Linear Model (GLM): Poisson & Logistic regression]()**
     - ✏️ [Poisson GLM for spiking neuron]()
-- Mar 23 R - [Classification, confusion matrix, ROC curve]()
+- Mar 23 R - **[Classification, confusion matrix, ROC curve]()**
     - ✏️ [logistic regression classifier]()
-- Mar 28 T - [Support Vector Machine (SVM) classifier]()
+- Mar 28 T - **[Support Vector Machine (SVM) classifier]()**
     - ✏️ [SVM classifier]()
-- Mar 30 R - [Random forest (bagging) & XGBoost (boosting) classifiers]()
+- Mar 30 R - **[Random forest (bagging) & XGBoost (boosting) classifiers]()**
     - ✏️ [random forest classifier]()
-- Apr 04 T - VIDEO ONLY - [Clustering]()
+- Apr 04 T - VIDEO ONLY - **[Clustering]()**
     - ✏️ [GMM clustering]()
-- Apr 06 R - [Principal Component Analysis (PCA)]()
+- Apr 06 R - **[Principal Component Analysis (PCA)]()**
     - ✏️ [PCA]()
-- Apr 11 T - [RNAseq lab]()
+- Apr 11 T - **[RNAseq lab]()**
     - ✏️ [PCA]()
-- Apr 13 R - [Neural Network (NN)]()
+- Apr 13 R - **[Neural Network (NN)]()**
     - ✏️ [NN](), 🎬 [Excellent Neural Networks video series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-- Apr 18 T - [Convolutional Neural Network (CNN)]()
+- Apr 18 T - **[Convolutional Neural Network (CNN)]()**
     - ✏️ [CNN]()
-- Apr 20 R - [Long/Short Term Memory (LSTM) Recurrent Neural Network (RNN)]()
+- Apr 20 R - **[Long/Short Term Memory (LSTM) Recurrent Neural Network (RNN)]()**
 
 # Setup your Python environment
 ## 1. Install Conda
