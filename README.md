@@ -119,7 +119,9 @@ It is about:
 **!!! WARNING !!!** *The syllabus is subject to change as the course progresses depending on my judgement.* This is because I modify my course every year to make it that much better for you. That said, the current syllabus is at least a reasonable approximation of what the final course will look like.
 
 - Jan 10 T - [Python ecosystem](/python-ecosystem.pptx) & [Python basics 1](/python-basics-1), HW: [Python basics](/assignments/python-basics-hw.ipynb)
+    - 📎 [What can I do with Python?](https://realpython.com/what-can-i-do-with-python/), [Intro to Jupyter and JupyterLab](https://coderefinery.github.io/jupyter/), [Intro to Python](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-1-Introduction-to-Python-Programming.ipynb), [Python beginner tutorials](https://www.tutorialsteacher.com/python), [Python basics](https://www.learnpython.org), [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/), [More Python tutorials](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers), [Python Tutor](https://pythontutor.com), [Python for Neuroscience](https://pyforneuro.com/)
 - Jan 12 R - [Python basics 2: Lists, mutations & functions](/python-basics-2), HW: [Lists & functions](/assignments/lists-functions-hw.ipynb)
+    - 📎 [Python lists](https://developers.google.com/edu/python/lists), [List exercises](https://holypython.com/beginner-python-exercises/exercise-6-python-lists/), [List slicing exercises](https://holypython.com/beginner-python-exercises/exercise-17-python-slicing/)
 - Jan 17 T - [Multi-dimensional data arrays](/numpy-ndarrays), HW: [NumPy arrays](/assignments/numpy-hw.ipynb)
     - 📎 [A visual intro to NumPy](https://jalammar.github.io/visual-numpy/)
 - Jan 19 R - [Data visualization](/matplotlib-data-visualization) & [Random walk lab](/random-walk-lab), HW: [Random walk](/assignments/random-walk-hw.ipynb)
