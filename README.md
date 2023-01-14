@@ -132,6 +132,7 @@ It is about:
 - Jan 31 T - [Hypothesis testing]() & [Statistical rigor](), HW: [p-values & effect sizes](/assignments/stats-rigor-hw.ipynb)
 - Feb 02 R - [Bootstrap]() & [Permutation test](), HW: [bootstrap & permutation test](/assignments/bootstrap-permutation-hw.ipynb)
 - Feb 07 T - [Numba]() & [Python basics 3: Classes & modules](/python-basics-3.ipynb), HW: [Numba](/assignments/numba-hw.ipynb)
+    - 🎬 [An opinion on classes and object-oriented programming (OOP)](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
 - Feb 09 R - [Convolution](), [Sequence data & sampling artifacts](), HW: [convolution & filtering]()
 - Feb 14 T - [Leaky Integrate & Fire (LIF) neuron](), HW: [LIF neuron simulation]()
 - Feb 16 R - [Hidden Markov Model (HMM) for ion channel](), HW: [ion channel HMM]()
