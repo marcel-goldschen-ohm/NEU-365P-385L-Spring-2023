@@ -126,7 +126,7 @@ It is about:
     - ✏️ [NumPy arrays](/assignments/numpy-hw.ipynb), 📎 [A visual intro to NumPy](https://jalammar.github.io/visual-numpy/)
 - Jan 19 R - **[Data visualization](/matplotlib-data-visualization) & [Random walk lab](/random-walk-lab)**
     - ✏️ [Random walk](/assignments/random-walk-hw.ipynb)
-- Jan 24 T - **[Probability distributions of random variables]()**
+- Jan 24 T - **[Probability distributions of random variables](/probability-distributions)**
     - ✏️ [Probability distributions](/assignments/prob-dist-hw.ipynb), 🎬 [Probability distributions video series](https://www.youtube.com/playlist?list=PLTNMv857s9WVzutwxaMb0YZKW7hoveGLS), 🎬 [Probability density and normal distribution](https://www.youtube.com/watch?v=CVjr-Dox3Ck), 🎬 [Standard error](https://www.youtube.com/watch?v=A82brFpdr9g&list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR&index=36)
 - Jan 26 R - **[Optimization & Maximum Likelihood Estimation (MLE)]()**
     - ✏️ [MLE](/assignments/mle-hw.ipynb), 🎬 [Probability vs. likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4), 🎬 [Maximum likelihood estimation](https://www.youtube.com/watch?v=XepXtl9YKwc)
