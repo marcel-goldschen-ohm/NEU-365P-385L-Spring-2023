@@ -128,7 +128,7 @@ It is about:
     - ✏️ [Random walk](/assignments/random-walk-hw.ipynb)
 - Jan 24 T - **[Probability distributions of random variables](/probability-distributions)**
     - ✏️ [Probability distributions](/assignments/probability-distributions-hw.ipynb), 🎬 [Probability distributions video series](https://www.youtube.com/playlist?list=PLTNMv857s9WVzutwxaMb0YZKW7hoveGLS), 🎬 [Probability density and normal distribution](https://www.youtube.com/watch?v=CVjr-Dox3Ck), 🎬 [Standard error](https://www.youtube.com/watch?v=A82brFpdr9g&list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR&index=36)
-- Jan 26 R - **[Optimization & Maximum Likelihood Estimation (MLE)]()**
+- Jan 26 R - **[Optimization & Maximum Likelihood Estimation (MLE)](/maximum-likelihood-estimation)**
     - ✏️ [MLE](/assignments/mle-hw.ipynb), 🎬 [Probability vs. likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4), 🎬 [Maximum likelihood estimation](https://www.youtube.com/watch?v=XepXtl9YKwc)
 - Jan 31 T - **[Hypothesis testing]() & [Statistical rigor]()**
     - ✏️ [p-values & effect sizes](/assignments/stats-rigor-hw.ipynb), 🎬 [p-value](https://www.youtube.com/watch?v=4XfTpkGe1Kc)
