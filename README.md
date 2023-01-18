@@ -133,7 +133,7 @@ It is about:
 - Jan 26 R - **[Optimization & Maximum Likelihood Estimation (MLE)](/maximum-likelihood-estimation)**
     - ✏️ [MLE](/assignments/mle-hw.ipynb), 🎬 [Probability vs. likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4), 🎬 [Maximum likelihood estimation](https://www.youtube.com/watch?v=XepXtl9YKwc)
 - Jan 31 T - **[Hypothesis testing]() & [Statistical rigor]()**
-    - ✏️ [p-values & effect sizes](/assignments/stats-rigor-hw.ipynb), 🎬 [p-value](https://www.youtube.com/watch?v=4XfTpkGe1Kc)
+    - ✏️ [p-values & effect sizes](/assignments/stats-rigor-hw.ipynb), 🎬 [p-value](https://www.youtube.com/watch?v=4XfTpkGe1Kc), 📰 [Rigor in plots](https://www.nature.com/articles/548153a)
 - Feb 02 R - **[Bootstrap resampling]() & [Permutation test]()**
     - ✏️ [bootstrap & permutation test](/assignments/bootstrap-permutation-hw.ipynb)
 - Feb 07 T - **[Numba]() & [Python basics 3: Classes & modules](/python-basics-3.ipynb)**
