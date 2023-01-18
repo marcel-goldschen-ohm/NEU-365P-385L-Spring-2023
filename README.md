@@ -136,7 +136,7 @@ It is about:
     - ✏️ [p-values & effect sizes](/assignments/stats-rigor-hw.ipynb), 🎬 [p-value](https://www.youtube.com/watch?v=4XfTpkGe1Kc), 📰 [Rigor in plots](https://www.nature.com/articles/548153a)
 - Feb 02 R - **[Bootstrap resampling]() & [Permutation test]()**
     - ✏️ [bootstrap & permutation test](/assignments/bootstrap-permutation-hw.ipynb)
-- Feb 07 T - **[Numba]() & [Python basics 3: Classes & modules](/python-basics-3.ipynb)**
+- Feb 07 T - **[Python basics 3: Classes & modules](/python-basics-3.ipynb) & [Numba]()**
     - ✏️ [Numba](/assignments/numba-hw.ipynb), 🎬 [An opinion on classes and object-oriented programming (OOP)](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
 - Feb 09 R - **[Convolution](), [Sequence data & sampling artifacts]()**
     - ✏️ [convolution & filtering]()
