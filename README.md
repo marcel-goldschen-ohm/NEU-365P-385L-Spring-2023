@@ -133,7 +133,7 @@ It is about:
 - Jan 26 R - **[Optimization & Maximum Likelihood Estimation (MLE)](/maximum-likelihood-estimation)**
     - ✏️ [MLE](/assignments/mle-hw.ipynb), 🎬 [Probability vs. likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4), 🎬 [Maximum likelihood estimation](https://www.youtube.com/watch?v=XepXtl9YKwc)
 - Jan 31 T - CANCELLED DUE TO WINTER STORM
-- Feb 02 R - **[Hypothesis testing]() & [Statistical rigor]()**
+- Feb 02 R - **[Hypothesis testing and p-values](/hypothesis testing and p-values.pptx)**
     - ✏️ [p-values & effect sizes](/assignments/stats-rigor-hw.ipynb), 🎬 [p-value](https://www.youtube.com/watch?v=4XfTpkGe1Kc), 📰 [Rigor in plots](https://www.nature.com/articles/548153a)
 - Feb 07 T - **[Bootstrap resampling]() & [Permutation test]()**
     - ✏️ [bootstrap & permutation test](/assignments/bootstrap-permutation-hw.ipynb)
