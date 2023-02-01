@@ -132,7 +132,7 @@ It is about:
     - ✏️ [Probability distributions](/assignments/probability-distributions-hw.ipynb), 🎬 [Probability distributions video series](https://www.youtube.com/playlist?list=PLTNMv857s9WVzutwxaMb0YZKW7hoveGLS), 🎬 [Probability density and normal distribution](https://www.youtube.com/watch?v=CVjr-Dox3Ck), 🎬 [Standard error](https://www.youtube.com/watch?v=A82brFpdr9g&list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR&index=36)
 - Jan 26 R - **[Optimization & Maximum Likelihood Estimation (MLE)](/maximum-likelihood-estimation)**
     - ✏️ [MLE](/assignments/mle-hw.ipynb), 🎬 [Probability vs. likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4), 🎬 [Maximum likelihood estimation](https://www.youtube.com/watch?v=XepXtl9YKwc)
-- Jan 31 T - CANCELED DUE TO WINTER STORM
+- Jan 31 T - CANCELLED DUE TO WINTER STORM
 - Feb 02 R - **[Hypothesis testing]() & [Statistical rigor]()**
     - ✏️ [p-values & effect sizes](/assignments/stats-rigor-hw.ipynb), 🎬 [p-value](https://www.youtube.com/watch?v=4XfTpkGe1Kc), 📰 [Rigor in plots](https://www.nature.com/articles/548153a)
 - Feb 07 T - **[Bootstrap resampling]() & [Permutation test]()**
