@@ -136,7 +136,7 @@ It is about:
 - Feb 02 R - **[Hypothesis testing and p-values](/hypothesis-testing-p-values.pptx)**
     - 🎬 [p-value](https://www.youtube.com/watch?v=4XfTpkGe1Kc), 📰 [Rigor in plots](https://www.nature.com/articles/548153a)
 - Feb 07 T - **[Bootstrap resampling & Permutation test](/resampling)**
-    - ✏️ [bootstrap & permutation test](/assignments/resampling-hypothesis-testing-hw.ipynb)
+    - ✏️ [bootstrap & permutation test](/assignments/resampling-hw.ipynb)
 - Feb 09 R - **[Python basics 3: Classes & modules](/python-basics-3.ipynb) & [Numba]()**
     - ✏️ [Numba](/assignments/numba-hw.ipynb), 🎬 [An opinion on classes and object-oriented programming (OOP)](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
 - Feb 14 T - **[Convolution](), [Sequence data & sampling artifacts]()**
