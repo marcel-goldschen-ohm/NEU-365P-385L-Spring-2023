@@ -21,7 +21,7 @@ NEU 365P/385L - Spring 2023
     - [Grading Rubric](#grading-rubric)
 - [Discussion Board](#discussion-board)
 - [Programming Rules of Thumb](#programming-rules-of-thumb)
-- [Syllabus](#syllabus)
+- [**Syllabus**](#syllabus)
 - [Setup your Python environment](#setup-your-python-environment)
 - [Keep up-to-date with the course GitHub repository](#keep-up-to-date-with-the-course-github-repository)
 - [Resources](#resources)
