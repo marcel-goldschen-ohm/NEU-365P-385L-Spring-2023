@@ -132,20 +132,19 @@ It is about:
     - ✏️ [Probability distributions](/assignments/probability-distributions-hw.ipynb), 🎬 [Probability distributions video series](https://www.youtube.com/playlist?list=PLTNMv857s9WVzutwxaMb0YZKW7hoveGLS), 🎬 [Probability density and normal distribution](https://www.youtube.com/watch?v=CVjr-Dox3Ck), 🎬 [Standard error](https://www.youtube.com/watch?v=A82brFpdr9g&list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR&index=36)
 - Jan 26 R - **[Optimization & Maximum Likelihood Estimation (MLE)](/maximum-likelihood-estimation)**
     - ✏️ [MLE](/assignments/mle-hw.ipynb), 🎬 [Probability vs. likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4), 🎬 [Maximum likelihood estimation](https://www.youtube.com/watch?v=XepXtl9YKwc)
-- Jan 31 T - **[Hypothesis testing]() & [Statistical rigor]()**
+- Jan 31 T - CANCELED DUE TO WINTER STORM
+- Feb 02 R - **[Hypothesis testing]() & [Statistical rigor]()**
     - ✏️ [p-values & effect sizes](/assignments/stats-rigor-hw.ipynb), 🎬 [p-value](https://www.youtube.com/watch?v=4XfTpkGe1Kc), 📰 [Rigor in plots](https://www.nature.com/articles/548153a)
-- Feb 02 R - **[Bootstrap resampling]() & [Permutation test]()**
+- Feb 07 T - **[Bootstrap resampling]() & [Permutation test]()**
     - ✏️ [bootstrap & permutation test](/assignments/bootstrap-permutation-hw.ipynb)
-- Feb 07 T - **[Python basics 3: Classes & modules](/python-basics-3.ipynb) & [Numba]()**
+- Feb 09 R - **[Python basics 3: Classes & modules](/python-basics-3.ipynb) & [Numba]()**
     - ✏️ [Numba](/assignments/numba-hw.ipynb), 🎬 [An opinion on classes and object-oriented programming (OOP)](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
-- Feb 09 R - **[Convolution](), [Sequence data & sampling artifacts]()**
+- Feb 14 T - **[Convolution](), [Sequence data & sampling artifacts]()**
     - ✏️ [convolution & filtering]()
-- Feb 14 T - **[Leaky Integrate & Fire (LIF) neuron]()**
+- Feb 16 R - **[Leaky Integrate & Fire (LIF) neuron]()**
     - ✏️ [LIF neuron simulation]()
-- Feb 16 R - **[Hidden Markov Model (HMM) for ion channel]()**
+- Feb 21 T - **[Hidden Markov Model (HMM) for ion channel]()**
     - ✏️ [ion channel HMM]()
-- Feb 21 T - **[HMM for DNA sequence]()**
-    - ✏️ [nucleotide sequence HMM]()
 - Feb 23 R - VIDEO ONLY - **[Data tables]()**
     - ✏️ [pandas dataframes]()
 - Feb 28 T - **[Linear regression]()**
