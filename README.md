@@ -133,11 +133,12 @@ It is about:
 - Jan 26 R - **[Optimization & Maximum Likelihood Estimation (MLE)](/maximum-likelihood-estimation)**
     - ✏️ [MLE](/assignments/mle-hw.ipynb), 🎬 [Probability vs. likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4), 🎬 [Maximum likelihood estimation](https://www.youtube.com/watch?v=XepXtl9YKwc)
 - Jan 31 T - CANCELLED DUE TO WINTER STORM
-- Feb 02 R - **[Hypothesis testing and p-values](/hypothesis-testing-p-values.pptx)**
+- Feb 02 R - CANCELLED DUE TO WINTER STORM
+- Feb 07 T - **[Hypothesis testing and p-values](/hypothesis-testing-p-values.pptx)**
     - 🎬 [p-value](https://www.youtube.com/watch?v=4XfTpkGe1Kc), 📰 [Rigor in plots](https://www.nature.com/articles/548153a)
-- Feb 07 T - **[Bootstrap resampling & Permutation test](/resampling)**
+- Feb 09 R - **[Bootstrap resampling & Permutation test](/resampling)**
     - ✏️ [bootstrap & permutation test](/assignments/resampling-hw.ipynb)
-- Feb 09 R - **[Python basics 3: Classes & modules](/python-basics-3.ipynb) & [Numba]()**
+- EXTRA - **[Python basics 3: Classes & modules](/python-basics-3.ipynb) & [Numba]()**
     - ✏️ [Numba](/assignments/numba-hw.ipynb), 🎬 [An opinion on classes and object-oriented programming (OOP)](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
 - Feb 14 T - **[Convolution](), [Sequence data & sampling artifacts]()**
     - ✏️ [convolution & filtering]()
