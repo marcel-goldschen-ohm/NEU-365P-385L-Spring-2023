@@ -118,7 +118,7 @@ It is about:
 - Writing a program that can be understood by other people (or by yourself in a year!)
 
 # Syllabus
-**!!! WARNING !!!** *The syllabus is subject to change as the course progresses depending on my judgement.* This is because I modify my course every year to make it that much better for you. That said, the current syllabus is at least a reasonable approximation of what the final course will look like.
+⚠️ *The syllabus is subject to change as the course progresses depending on my judgement.* This is because I modify my course every year to make it that much better for you. That said, the current syllabus is at least a reasonable approximation of what the final course will look like.
 
 - Jan 10 T - **[Python ecosystem](/python-ecosystem.pptx) & [Python basics 1](/python-basics-1)**
     - ✏️ [Python basics](/assignments/python-basics-hw.ipynb), 📎 [What can I do with Python?](https://realpython.com/what-can-i-do-with-python/), 📎 [Intro to Jupyter and JupyterLab](https://coderefinery.github.io/jupyter/), 📎 [Intro to Python](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-1-Introduction-to-Python-Programming.ipynb), 📎 [Python beginner tutorials](https://www.tutorialsteacher.com/python), 📎 [Python basics](https://www.learnpython.org), 📎 [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/), 📎 [More Python tutorials](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers), 📎 [Python Tutor](https://pythontutor.com), 📎 [Python for Neuroscience](https://pyforneuro.com/)
@@ -215,7 +215,7 @@ conda install jupyterlab -c conda-forge
 
 *Note that if you configured conda to automatically search the conda-forge channel, then you could omit the `-c conda-forge` portion of the last command.*
 
-**!!!** Note that each time you open a new cmd shell or terminal, you will need to activate the conda environment that you want to use:
+⚠️ Note that each time you open a new cmd shell or terminal, you will need to activate the conda environment that you want to use:
 ```
 conda activate neu365p
 ```
@@ -260,7 +260,7 @@ There are a variety of user interfaces for Python coding from the most basic tex
 3. Sign into to GitHub Desktop using your GitHub account credentials.
 4. Go to [the course GitHub repo](https://github.com/marcel-goldschen-ohm/NEU-365P-385L-Spring-2023), click the `<> Code` button in the upper right and choose `Open with GitHub Desktop`. This will open GitHub Desktop on your computer and ask you to choose a location in which to clone (copy) all of the course repo files. When it is done you will have a local copy of the course GitHub repo in a folder on your computer.
 5. Whenever you want to make sure your local copy is an up-to-date reflection of the current online course repo, all you have to do is launch GitHub Desktop, select the repo for this course and click the `Fetch Origin` button in the upper right. If this button changes to `Pull Origin`, that means that there are changes in the online repo that you do not have locally. Just click the `Pull Origin` button and all of the changes including new files in the online repo will be downloaded so that your local repo is an exact copy of the current online course repo.
-6. **!!! WARNING !!!** Whenever you execute Step #5 above, your local repo will become an EXACT COPY of the online course repo. *THIS INCLUDES RESETTING ANY HOMEWORK FILES YOU COMPLETED WITH THE ONLINE BLANK HOMEWORK FILES!* To avoid this, make sure **YOU MOVE YOUR HOMEWORK FILES OUTSIDE OF YOUR LOCAL REPO FOLDER BEFORE YOU WORK ON THEM!**
+6. ⚠️ Whenever you execute Step #5 above, your local repo will become an EXACT COPY of the online course repo. *THIS INCLUDES RESETTING ANY HOMEWORK FILES YOU COMPLETED WITH THE ONLINE BLANK HOMEWORK FILES!* To avoid this, make sure **YOU MOVE YOUR HOMEWORK FILES OUTSIDE OF YOUR LOCAL REPO FOLDER BEFORE YOU WORK ON THEM!**
 
 # Resources
 - [Python Beginner Basics](https://www.tutorialsteacher.com/python): This looks like a good resource for Python basics.
