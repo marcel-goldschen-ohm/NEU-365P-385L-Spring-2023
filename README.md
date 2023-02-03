@@ -140,42 +140,42 @@ It is about:
     - ✏️ [bootstrap & permutation test](/assignments/resampling-hw.ipynb)
 - EXTRA - **[Python basics 3: Classes & modules](/python-basics-3.ipynb) & [Numba]()**
     - ✏️ [Numba](/assignments/numba-hw.ipynb), 🎬 [An opinion on classes and object-oriented programming (OOP)](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
-- Feb 14 T - **[Convolution](), [Sequence data & sampling artifacts]()**
-    - ✏️ [convolution & filtering]()
+- Feb 14 T - **[Sequence data, sampling artifacts & Convolution]()**
+    - ✏️ [/assignments/sampling-filtering-hw.ipynb]()
 - Feb 16 R - **[Leaky Integrate & Fire (LIF) neuron]()**
-    - ✏️ [LIF neuron simulation]()
+    - ✏️ [/assignments/LIF-neuron-hw.ipynb]()
 - Feb 21 T - **[Hidden Markov Model (HMM) for ion channel]()**
-    - ✏️ [ion channel HMM]()
+    - ✏️ [/assignments/hmm-hw.ipynb]()
 - Feb 23 R - VIDEO ONLY - **[Data tables]()**
-    - ✏️ [pandas dataframes]()
+    - ✏️ [/assignments/pandas-hw.ipynb]()
 - Feb 28 T - **[Linear regression]()**
-    - ✏️ [linear regression]()
+    - ✏️ [/assignments/linear-regression-hw.ipynb]()
 - Mar 02 R - **[Polynomial & K-Nearest Neighbors (KNN) regression]()**
-    - ✏️ [polynomial & KNN regression]()
-- Mar 07 T - **[Bias/Variance tradeoff](), [Train/Test split]() & [Cross validation]()**
-    - ✏️ [cross validation]()
+    - ✏️ [/assignments/polynomial-KNN-regression-hw.ipynb]()
+- Mar 07 T - **[Bias/Variance tradeoff,Train/Test split & Cross validation]()**
+    - ✏️ [/assignments/cross-validation-hw.ipynb]()
 - Mar 09 R - **[Regularization]()**
-    - ✏️ [ridge & lasso regularization]()
+    - ✏️ [/assignments/regularization-hw.ipynb]()
 - Mar 14 T - SPRING BREAK
 - Mar 16 R - SPRING BREAK
 - Mar 21 T - **[Generalized Linear Model (GLM): Poisson & Logistic regression]()**
-    - ✏️ [Poisson GLM for spiking neuron]()
+    - ✏️ [/assignments/glm-hw.ipynb]()
 - Mar 23 R - **[Classification, confusion matrix, ROC curve]()**
-    - ✏️ [logistic regression classifier]()
+    - ✏️ [/assignments/classification-hw.ipynb]()
 - Mar 28 T - **[Support Vector Machine (SVM) classifier]()**
-    - ✏️ [SVM classifier]()
+    - ✏️ [/assignments/svm-hw.ipynb]()
 - Mar 30 R - **[Random forest (bagging) & XGBoost (boosting) classifiers]()**
-    - ✏️ [random forest classifier]()
+    - ✏️ [/assignments/random-forest-hw.ipynb]()
 - Apr 04 T - VIDEO ONLY - **[Clustering]()**
-    - ✏️ [GMM clustering]()
+    - ✏️ [/assignments/clustering-hw.ipynb]()
 - Apr 06 R - **[Principal Component Analysis (PCA)]()**
-    - ✏️ [PCA]()
+    - ✏️ [/assignments/pca-hw.ipynb]()
 - Apr 11 T - **[RNAseq lab]()**
-    - ✏️ [PCA](), 📰 [Recent article relevant to dimensionality reduction](https://doi.org/10.1038/s43588-022-00380-4)
+    - 📰 [Recent article relevant to dimensionality reduction](https://doi.org/10.1038/s43588-022-00380-4)
 - Apr 13 R - **[Neural Network (NN)]()**
-    - ✏️ [NN](), 🎬 [Excellent Neural Networks video series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+    - ✏️ [/assignments/neural-net-hw.ipynb](), 🎬 [Excellent Neural Networks video series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - Apr 18 T - **[Convolutional Neural Network (CNN)]()**
-    - ✏️ [CNN]()
+    - ✏️ [/assignments/CNN-hw.ipynb]()
 - Apr 20 R - **[Long/Short Term Memory (LSTM) Recurrent Neural Network (RNN)]()**
 
 # Setup your Python environment
