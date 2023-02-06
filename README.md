@@ -140,7 +140,7 @@ It is about:
     - ✏️ [bootstrap & permutation test](/assignments/resampling-hw.ipynb)
 - EXTRA - **[Python basics 3: Classes & modules](/python-basics-3.ipynb) & [Numba]()**
     - ✏️ [Numba](/assignments/numba-hw.ipynb), 🎬 [An opinion on classes and object-oriented programming (OOP)](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
-- Feb 14 T - **[Sequence data, sampling artifacts & Convolution]()**
+- Feb 14 T - **[Sequence data, sampling artifacts & Convolution](/sequences-convolution)**
     - ✏️ [/assignments/sampling-filtering-hw.ipynb]()
 - Feb 16 R - **[Leaky Integrate & Fire (LIF) neuron]()**
     - ✏️ [/assignments/LIF-neuron-hw.ipynb]()
