@@ -123,59 +123,59 @@ It is about:
 - Jan 10 T - **[Python ecosystem](/python-ecosystem.pptx) & [Python basics 1](/python-basics-1)**
     - ✏️ [Python basics](/assignments/python-basics-hw.ipynb), 📎 [What can I do with Python?](https://realpython.com/what-can-i-do-with-python/), 📎 [Intro to Jupyter and JupyterLab](https://coderefinery.github.io/jupyter/), 📎 [Intro to Python](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-1-Introduction-to-Python-Programming.ipynb), 📎 [Python beginner tutorials](https://www.tutorialsteacher.com/python), 📎 [Python basics](https://www.learnpython.org), 📎 [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/), 📎 [More Python tutorials](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers), 📎 [Python Tutor](https://pythontutor.com), 📎 [Python for Neuroscience](https://pyforneuro.com/)
 - Jan 12 R - **[Python basics 2: Lists, mutations & functions](/python-basics-2)**
-    - ✏️ [Lists & functions](/assignments/lists-functions-hw.ipynb), 📎 [Python lists](https://developers.google.com/edu/python/lists), 📎 [List exercises](https://holypython.com/beginner-python-exercises/exercise-6-python-lists/), 📎 [List slicing exercises](https://holypython.com/beginner-python-exercises/exercise-17-python-slicing/)
+    - ✏️ [lists-functions-hw.ipynb](/assignments/lists-functions-hw.ipynb), 📎 [Python lists](https://developers.google.com/edu/python/lists), 📎 [List exercises](https://holypython.com/beginner-python-exercises/exercise-6-python-lists/), 📎 [List slicing exercises](https://holypython.com/beginner-python-exercises/exercise-17-python-slicing/)
 - Jan 17 T - **[Multi-dimensional data arrays](/numpy-ndarrays)**
-    - ✏️ [NumPy arrays](/assignments/numpy-hw.ipynb), 📎 [A visual intro to NumPy](https://jalammar.github.io/visual-numpy/)
+    - ✏️ [numpy-hw.ipynb](/assignments/numpy-hw.ipynb), 📎 [A visual intro to NumPy](https://jalammar.github.io/visual-numpy/)
 - Jan 19 R - **[Data visualization](/matplotlib-data-visualization) & [Random walk lab](/random-walk-lab)**
-    - ✏️ [Random walk](/assignments/random-walk-hw.ipynb)
+    - ✏️ [random-walk-hw.ipynb](/assignments/random-walk-hw.ipynb)
 - Jan 24 T - **[Probability distributions of random variables](/probability-distributions)**
-    - ✏️ [Probability distributions](/assignments/probability-distributions-hw.ipynb), 🎬 [Probability distributions video series](https://www.youtube.com/playlist?list=PLTNMv857s9WVzutwxaMb0YZKW7hoveGLS), 🎬 [Probability density and normal distribution](https://www.youtube.com/watch?v=CVjr-Dox3Ck), 🎬 [Standard error](https://www.youtube.com/watch?v=A82brFpdr9g&list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR&index=36)
+    - ✏️ [probability-distributions-hw.ipynb](/assignments/probability-distributions-hw.ipynb), 🎬 [Probability distributions video series](https://www.youtube.com/playlist?list=PLTNMv857s9WVzutwxaMb0YZKW7hoveGLS), 🎬 [Probability density and normal distribution](https://www.youtube.com/watch?v=CVjr-Dox3Ck), 🎬 [Standard error](https://www.youtube.com/watch?v=A82brFpdr9g&list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR&index=36)
 - Jan 26 R - **[Optimization & Maximum Likelihood Estimation (MLE)](/maximum-likelihood-estimation)**
-    - ✏️ [MLE](/assignments/mle-hw.ipynb), 🎬 [Probability vs. likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4), 🎬 [Maximum likelihood estimation](https://www.youtube.com/watch?v=XepXtl9YKwc)
+    - ✏️ [mle-hw.ipynb](/assignments/mle-hw.ipynb), 🎬 [Probability vs. likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4), 🎬 [Maximum likelihood estimation](https://www.youtube.com/watch?v=XepXtl9YKwc)
 - Jan 31 T - CANCELLED DUE TO WINTER STORM
 - Feb 02 R - CANCELLED DUE TO WINTER STORM
 - Feb 07 T - **[Hypothesis testing and p-values](/hypothesis-testing-p-values.pptx)**
     - 🎬 [p-value](https://www.youtube.com/watch?v=4XfTpkGe1Kc), 📰 [Rigor in plots](https://www.nature.com/articles/548153a)
 - Feb 09 R - **[Resampling: Bootstrap & permutation](/resampling)**
-    - ✏️ [bootstrap & permutation test](/assignments/resampling-hw.ipynb)
+    - ✏️ [resampling-hw.ipynb](/assignments/resampling-hw.ipynb)
 - EXTRA - **Numba & Python basics 3: Classes & modules**
-    - ✏️ [Numba](/assignments/numba-hw.ipynb), 🎬 [An opinion on classes and object-oriented programming (OOP)](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
+    - ✏️ [](/assignments/numba-hw.ipynb), 🎬 [An opinion on classes and object-oriented programming (OOP)](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
 - Feb 14 T - **[Sequence data, sampling artifacts & Convolution](/sequences-convolution)**
-    - ✏️ [/assignments/sampling-filtering-hw.ipynb]()
+    - ✏️ [](/assignments/sampling-filtering-hw.ipynb)
 - Feb 16 R - **Leaky Integrate & Fire (LIF) neuron**
-    - ✏️ [/assignments/LIF-neuron-hw.ipynb]()
+    - ✏️ [](/assignments/LIF-neuron-hw.ipynb)
 - Feb 21 T - VIDEO ONLY - **Data tables**
-    - ✏️ [/assignments/pandas-hw.ipynb]()
+    - ✏️ [](/assignments/pandas-hw.ipynb)
 - Feb 23 R - **Hidden Markov Model (HMM) for ion channel**
-    - ✏️ [/assignments/hmm-hw.ipynb]()
+    - ✏️ [](/assignments/hmm-hw.ipynb)
 - Feb 28 T - **Linear regression**
-    - ✏️ [/assignments/linear-regression-hw.ipynb]()
+    - ✏️ [](/assignments/linear-regression-hw.ipynb)
 - Mar 02 R - **Polynomial & K-Nearest Neighbors (KNN) regression**
-    - ✏️ [/assignments/polynomial-KNN-regression-hw.ipynb]()
+    - ✏️ [](/assignments/polynomial-KNN-regression-hw.ipynb)
 - Mar 07 T - **Bias/Variance tradeoff,Train/Test split & Cross validation**
-    - ✏️ [/assignments/cross-validation-hw.ipynb]()
+    - ✏️ [](/assignments/cross-validation-hw.ipynb)
 - Mar 09 R - **Regularization**
-    - ✏️ [/assignments/regularization-hw.ipynb]()
+    - ✏️ [](/assignments/regularization-hw.ipynb)
 - Mar 14 T - SPRING BREAK
 - Mar 16 R - SPRING BREAK
 - Mar 21 T - **Generalized Linear Model (GLM): Poisson & Logistic regression**
-    - ✏️ [/assignments/glm-hw.ipynb]()
+    - ✏️ [](/assignments/glm-hw.ipynb)
 - Mar 23 R - **Classification, confusion matrix, ROC curve**
-    - ✏️ [/assignments/classification-hw.ipynb]()
+    - ✏️ [](/assignments/classification-hw.ipynb)
 - Mar 28 T - **Support Vector Machine (SVM) classifier**
-    - ✏️ [/assignments/svm-hw.ipynb]()
+    - ✏️ [](/assignments/svm-hw.ipynb)
 - Mar 30 R - **Random forest (bagging) & XGBoost (boosting) classifiers**
-    - ✏️ [/assignments/random-forest-hw.ipynb]()
+    - ✏️ [](/assignments/random-forest-hw.ipynb)
 - Apr 04 T - VIDEO ONLY - **Clustering**
-    - ✏️ [/assignments/clustering-hw.ipynb]()
+    - ✏️ [](/assignments/clustering-hw.ipynb)
 - Apr 06 R - **Principal Component Analysis (PCA)**
-    - ✏️ [/assignments/pca-hw.ipynb]()
+    - ✏️ [](/assignments/pca-hw.ipynb)
 - Apr 11 T - **RNAseq lab**
     - 📰 [Recent article relevant to dimensionality reduction](https://doi.org/10.1038/s43588-022-00380-4)
 - Apr 13 R - **Neural Network (NN)**
-    - ✏️ [/assignments/neural-net-hw.ipynb](), 🎬 [Excellent Neural Networks video series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+    - ✏️ [](/assignments/neural-net-hw.ipynb), 🎬 [Excellent Neural Networks video series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - Apr 18 T - **Convolutional Neural Network (CNN)**
-    - ✏️ [/assignments/CNN-hw.ipynb]()
+    - ✏️ [](/assignments/CNN-hw.ipynb)
 - Apr 20 R - **Long/Short Term Memory (LSTM) Recurrent Neural Network (RNN)**
 
 # Setup your Python environment
