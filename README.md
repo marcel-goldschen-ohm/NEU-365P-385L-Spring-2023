@@ -144,10 +144,10 @@ It is about:
     - ✏️ [/assignments/sampling-filtering-hw.ipynb]()
 - Feb 16 R - **Leaky Integrate & Fire (LIF) neuron**
     - ✏️ [/assignments/LIF-neuron-hw.ipynb]()
-- Feb 21 T - **Hidden Markov Model (HMM) for ion channel**
-    - ✏️ [/assignments/hmm-hw.ipynb]()
-- Feb 23 R - VIDEO ONLY - **Data tables**
+- Feb 21 T - VIDEO ONLY - **Data tables**
     - ✏️ [/assignments/pandas-hw.ipynb]()
+- Feb 23 R - **Hidden Markov Model (HMM) for ion channel**
+    - ✏️ [/assignments/hmm-hw.ipynb]()
 - Feb 28 T - **Linear regression**
     - ✏️ [/assignments/linear-regression-hw.ipynb]()
 - Mar 02 R - **Polynomial & K-Nearest Neighbors (KNN) regression**
