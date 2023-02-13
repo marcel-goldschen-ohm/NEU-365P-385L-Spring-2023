@@ -141,7 +141,7 @@ It is about:
 - EXTRA - **Numba & Python basics 3: Classes & modules**
     - ✏️ [](/assignments/numba-hw.ipynb), 🎬 [An opinion on classes and object-oriented programming (OOP)](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
 - Feb 14 T - **[Sequence data, sampling artifacts & Convolution](/sequences-convolution)**
-    - ✏️ [](/assignments/sampling-filtering-hw.ipynb)
+    - ✏️ [time-series-hw.ipynb](/assignments/time-series-hw.ipynb)
 - Feb 16 R - **Leaky Integrate & Fire (LIF) neuron**
     - ✏️ [](/assignments/LIF-neuron-hw.ipynb)
 - Feb 21 T - VIDEO ONLY - **Data tables**
