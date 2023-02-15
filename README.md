@@ -146,7 +146,7 @@ It is about:
     - ✏️ [](/assignments/LIF-neuron-hw.ipynb)
 - Feb 21 T - VIDEO ONLY - **Data tables**
     - ✏️ [](/assignments/pandas-hw.ipynb)
-- Feb 23 R - **Hidden Markov Model (HMM) for ion channel**
+- Feb 23 R - **Hidden Markov Models (HMMs)**
     - ✏️ [](/assignments/hmm-hw.ipynb)
 - Feb 28 T - **Linear regression**
     - ✏️ [](/assignments/linear-regression-hw.ipynb)
