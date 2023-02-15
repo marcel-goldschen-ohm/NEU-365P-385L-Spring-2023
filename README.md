@@ -142,7 +142,7 @@ It is about:
     - ✏️ [](/assignments/numba-hw.ipynb), 🎬 [An opinion on classes and object-oriented programming (OOP)](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
 - Feb 14 T - **[Sequence data, sampling artifacts & Convolution](/sequences-convolution)**
     - ✏️ [time-series-hw.ipynb](/assignments/time-series-hw.ipynb)
-- Feb 16 R - **Leaky Integrate & Fire (LIF) neuron**
+- Feb 16 R - **[Leaky Integrate & Fire (LIF) neuron](/LIF-neuron-model)**
     - ✏️ [](/assignments/LIF-neuron-hw.ipynb)
 - Feb 21 T - VIDEO ONLY - **Data tables**
     - ✏️ [](/assignments/pandas-hw.ipynb)
