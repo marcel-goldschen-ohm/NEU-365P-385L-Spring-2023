@@ -144,7 +144,7 @@ It is about:
     - ✏️ [time-series-hw.ipynb](/assignments/time-series-hw.ipynb)
 - Feb 16 R - **[Leaky Integrate & Fire (LIF) neuron](/LIF-neuron-model)**
     - ✏️ [neuron-simulation-hw.ipynb](/assignments/neuron-simulation-hw.ipynb)
-- Feb 21 T - VIDEO ONLY - **Data tables**
+- Feb 21 T - VIDEO ONLY - **[Data tables](/pandas-dataframe)**
 - Feb 23 R - **Hidden Markov Models (HMMs)**
     - ✏️ [](/assignments/hmm-hw.ipynb)
 - Feb 28 T - **Linear regression**
