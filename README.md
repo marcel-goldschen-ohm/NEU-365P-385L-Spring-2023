@@ -143,7 +143,7 @@ It is about:
 - Feb 14 T - **[Sequence data, sampling artifacts & Convolution](/sequences-convolution)**
     - ✏️ [time-series-hw.ipynb](/assignments/time-series-hw.ipynb)
 - Feb 16 R - **[Leaky Integrate & Fire (LIF) neuron](/LIF-neuron-model)**
-    - ✏️ [](/assignments/LIF-neuron-hw.ipynb)
+    - ✏️ [neuron-simulation-hw.ipynb](/assignments/neuron-simulation-hw.ipynb)
 - Feb 21 T - VIDEO ONLY - **Data tables**
     - ✏️ [](/assignments/pandas-hw.ipynb)
 - Feb 23 R - **Hidden Markov Models (HMMs)**
