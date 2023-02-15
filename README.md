@@ -138,8 +138,6 @@ It is about:
     - 🎬 [p-value](https://www.youtube.com/watch?v=4XfTpkGe1Kc), 📰 [Rigor in plots](https://www.nature.com/articles/548153a)
 - Feb 09 R - **[Resampling: Bootstrap & permutation](/resampling)**
     - ✏️ [resampling-hw.ipynb](/assignments/resampling-hw.ipynb), 📎 [Permutation test alpaca example](https://www.jwilber.me/permutationtest/)
-- EXTRA - **Numba & Python basics 3: Classes & modules**
-    - 🎬 [An opinion on classes and object-oriented programming (OOP)](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
 - Feb 14 T - **[Sequence data, sampling artifacts & Convolution](/sequences-convolution)**
     - ✏️ [time-series-hw.ipynb](/assignments/time-series-hw.ipynb)
 - Feb 16 R - **[Leaky Integrate & Fire (LIF) neuron](/LIF-neuron-model)**
@@ -176,6 +174,8 @@ It is about:
 - Apr 18 T - **Convolutional Neural Network (CNN)**
     - ✏️ [](/assignments/CNN-hw.ipynb)
 - Apr 20 R - **Long/Short Term Memory (LSTM) Recurrent Neural Network (RNN)**
+- EXTRA - **Numba & Python basics 3: Classes & modules**
+    - 🎬 [An opinion on classes and object-oriented programming (OOP)](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
 
 # Setup your Python environment
 ## 1. Install Conda
