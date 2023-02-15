@@ -139,7 +139,7 @@ It is about:
 - Feb 09 R - **[Resampling: Bootstrap & permutation](/resampling)**
     - ✏️ [resampling-hw.ipynb](/assignments/resampling-hw.ipynb), 📎 [Permutation test alpaca example](https://www.jwilber.me/permutationtest/)
 - EXTRA - **Numba & Python basics 3: Classes & modules**
-    - ✏️ [](/assignments/numba-hw.ipynb), 🎬 [An opinion on classes and object-oriented programming (OOP)](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
+    - 🎬 [An opinion on classes and object-oriented programming (OOP)](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
 - Feb 14 T - **[Sequence data, sampling artifacts & Convolution](/sequences-convolution)**
     - ✏️ [time-series-hw.ipynb](/assignments/time-series-hw.ipynb)
 - Feb 16 R - **[Leaky Integrate & Fire (LIF) neuron](/LIF-neuron-model)**
