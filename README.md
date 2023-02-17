@@ -143,37 +143,39 @@ It is about:
 - Feb 16 R - **[Leaky Integrate & Fire (LIF) neuron](/LIF-neuron-model)**
     - ✏️ [neuron-simulation-hw.ipynb](/assignments/neuron-simulation-hw.ipynb)
 - Feb 21 T - VIDEO ONLY - **[Data tables](/pandas-dataframe)**
-- Feb 23 R - **Hidden Markov Models (HMMs)**
+- Feb 23 R - **LIF neuron and Hidden Markov Models (HMMs)**
     - ✏️ [](/assignments/hmm-hw.ipynb)
-- Feb 28 T - **Linear regression**
+- Feb 28 T - **Hidden Markov Models (HMMs)**
+    - ✏️ [](/assignments/hmm-hw.ipynb)
+- Mar 02 R - **Linear regression**
     - ✏️ [](/assignments/linear-regression-hw.ipynb)
-- Mar 02 R - **Polynomial & K-Nearest Neighbors (KNN) regression**
+- Mar 07 T - **Polynomial & K-Nearest Neighbors (KNN) regression**
     - ✏️ [](/assignments/polynomial-KNN-regression-hw.ipynb)
-- Mar 07 T - **Bias/Variance tradeoff,Train/Test split & Cross validation**
+- Mar 09 R - **Bias/Variance tradeoff,Train/Test split & Cross validation**
     - ✏️ [](/assignments/cross-validation-hw.ipynb)
-- Mar 09 R - **Regularization**
-    - ✏️ [](/assignments/regularization-hw.ipynb)
 - Mar 14 T - SPRING BREAK
 - Mar 16 R - SPRING BREAK
-- Mar 21 T - **Generalized Linear Model (GLM): Poisson & Logistic regression**
+- Mar 21 T - **Regularization**
+    - ✏️ [](/assignments/regularization-hw.ipynb)
+- Mar 23 R - **Generalized Linear Model (GLM): Poisson & Logistic regression**
     - ✏️ [](/assignments/glm-hw.ipynb)
-- Mar 23 R - **Classification, confusion matrix, ROC curve**
+- Mar 28 T - **Classification, confusion matrix, ROC curve**
     - ✏️ [](/assignments/classification-hw.ipynb)
-- Mar 28 T - **Support Vector Machine (SVM) classifier**
+- Mar 30 R - **Support Vector Machine (SVM) classifier**
     - ✏️ [](/assignments/svm-hw.ipynb)
-- Mar 30 R - **Random forest (bagging) & XGBoost (boosting) classifiers**
+- Apr 04 T - VIDEO ONLY - **Random forest (bagging) & XGBoost (boosting) classifiers**
     - ✏️ [](/assignments/random-forest-hw.ipynb)
-- Apr 04 T - VIDEO ONLY - **Clustering**
+- Apr 06 R - **Clustering**
     - ✏️ [](/assignments/clustering-hw.ipynb)
-- Apr 06 R - **Principal Component Analysis (PCA)**
+- Apr 11 T - **Principal Component Analysis (PCA)**
     - ✏️ [](/assignments/pca-hw.ipynb)
-- Apr 11 T - **RNAseq lab**
+- Apr 13 R - **RNAseq lab**
     - 📰 [Recent article relevant to dimensionality reduction](https://doi.org/10.1038/s43588-022-00380-4)
-- Apr 13 R - **Neural Network (NN)**
+- Apr 18 T - **Neural Network (NN)**
     - ✏️ [](/assignments/neural-net-hw.ipynb), 🎬 [Excellent Neural Networks video series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-- Apr 18 T - **Convolutional Neural Network (CNN)**
+- Apr 20 R - **Convolutional Neural Network (CNN)**
     - ✏️ [](/assignments/CNN-hw.ipynb)
-- Apr 20 R - **Long/Short Term Memory (LSTM) Recurrent Neural Network (RNN)**
+- EXTRA - **Long/Short Term Memory (LSTM) Recurrent Neural Network (RNN)**
 - EXTRA - **Numba & Python basics 3: Classes & modules**
     - 🎬 [An opinion on classes and object-oriented programming (OOP)](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
 
