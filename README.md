@@ -143,10 +143,8 @@ It is about:
 - Feb 16 R - **[Leaky Integrate & Fire (LIF) neuron](/LIF-neuron-model)**
     - ✏️ [neuron-simulation-hw.ipynb](/assignments/neuron-simulation-hw.ipynb)
 - Feb 21 T - VIDEO ONLY - **[Data tables](/pandas-dataframe)**
-- Feb 23 R - **LIF neuron and Hidden Markov Models (HMMs)**
-    - ✏️ [](/assignments/hmm-hw.ipynb)
-- Feb 28 T - **Hidden Markov Models (HMMs)**
-    - ✏️ [](/assignments/hmm-hw.ipynb)
+- Feb 23 R - **[LIF neuron](/LIF-neuron-model) and [Hidden Markov Models (HMMs)](/hidden-markov-model)**
+- Feb 28 T - **[Hidden Markov Models (HMMs)](/hidden-markov-model)**
 - Mar 02 R - **Linear regression**
     - ✏️ [](/assignments/linear-regression-hw.ipynb)
 - Mar 07 T - **Polynomial & K-Nearest Neighbors (KNN) regression**
