@@ -146,7 +146,7 @@ It is about:
 - Feb 23 R - **[LIF neuron](/LIF-neuron-model) and [Hidden Markov Models (HMMs)](/hidden-markov-model)**
 - Feb 28 T - **[Hidden Markov Models (HMMs)](/hidden-markov-model)**
 - Mar 02 R - **[Linear regression](/linear-regression)**
-    - ✏️ [](/assignments/linear-regression-hw.ipynb)
+    - ✏️ [linear-regression-hw.ipynb](/assignments/linear-regression-hw.ipynb)
 - Mar 07 T - **Polynomial & K-Nearest Neighbors (KNN) regression**
     - ✏️ [](/assignments/polynomial-KNN-regression-hw.ipynb)
 - Mar 09 R - **Bias/Variance tradeoff,Train/Test split & Cross validation**
