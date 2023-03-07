@@ -147,7 +147,7 @@ It is about:
 - Feb 28 T - **[Hidden Markov Models (HMMs)](/hidden-markov-model)**
 - Mar 02 R - **[Linear regression](/linear-regression)**
     - ✏️ [linear-regression-hw.ipynb](/assignments/linear-regression-hw.ipynb)
-- Mar 07 T - **[Polynomial & K-Nearest Neighbors (KNN) regression](/nonlinear-regression)**
+- Mar 07 T - **[Nonlinear regression](/nonlinear-regression)**
     - ✏️ [](/assignments/nonlinear-regression-hw.ipynb)
 - Mar 09 R - **Bias/Variance tradeoff,Train/Test split & Cross validation**
     - ✏️ [](/assignments/cross-validation-hw.ipynb)
