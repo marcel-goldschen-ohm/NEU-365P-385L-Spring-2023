@@ -131,3 +131,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+LIF-neuron-model/LIF-neuron-model.ipynb
+pandas-dataframe/pandas-eda.ipynb
+sequences-convolution/sequences-convolution.ipynb
