@@ -149,8 +149,8 @@ It is about:
     - ✏️ [linear-regression-hw.ipynb](/assignments/linear-regression-hw.ipynb)
 - Mar 07 T - **[Nonlinear regression (Polynomial & K-Nearest Neighbors)](/nonlinear-regression)**
     - ✏️ [](/assignments/nonlinear-regression-hw.ipynb)
-- Mar 09 R - **Bias/Variance tradeoff,Train/Test split & Cross validation**
-    - ✏️ [](/assignments/cross-validation-hw.ipynb)
+- Mar 09 R - **[Bias/Variance tradeoff,Train/Test split & Cross validation](/cross-validation)**
+    - ✏️ [cross-validation-hw.ipynb](/assignments/cross-validation-hw.ipynb)
 - Mar 14 T - SPRING BREAK
 - Mar 16 R - SPRING BREAK
 - Mar 21 T - **Regularization**
