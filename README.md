@@ -154,7 +154,7 @@ It is about:
 - Mar 14 T - SPRING BREAK
 - Mar 16 R - SPRING BREAK
 - Mar 21 T - **[Generalized Linear Model (GLM): Poisson & Logistic regression](/generalized-linear-model)**
-    - ✏️ [](/assignments/glm-hw.ipynb)
+    - ✏️ [glm-hw.ipynb](/assignments/glm-hw.ipynb)
 - Mar 23 R - **Regularization**
     - ✏️ [](/assignments/regularization-hw.ipynb)
 - Mar 28 T - **Classification, confusion matrix, ROC curve**
