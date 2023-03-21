@@ -153,10 +153,10 @@ It is about:
     - ✏️ [cross-validation-hw.ipynb](/assignments/cross-validation-hw.ipynb)
 - Mar 14 T - SPRING BREAK
 - Mar 16 R - SPRING BREAK
-- Mar 21 T - **Regularization**
-    - ✏️ [](/assignments/regularization-hw.ipynb)
-- Mar 23 R - **Generalized Linear Model (GLM): Poisson & Logistic regression**
+- Mar 21 T - **[Generalized Linear Model (GLM): Poisson & Logistic regression](/generalized-linear-model)**
     - ✏️ [](/assignments/glm-hw.ipynb)
+- Mar 23 R - **Regularization**
+    - ✏️ [](/assignments/regularization-hw.ipynb)
 - Mar 28 T - **Classification, confusion matrix, ROC curve**
     - ✏️ [](/assignments/classification-hw.ipynb)
 - Mar 30 R - **Support Vector Machine (SVM) classifier**
