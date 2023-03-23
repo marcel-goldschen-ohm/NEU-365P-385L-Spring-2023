@@ -156,7 +156,7 @@ It is about:
 - Mar 21 T - **[Generalized Linear Model (GLM): Poisson & Logistic regression](/generalized-linear-model)**
     - ✏️ [glm-hw.ipynb](/assignments/glm-hw.ipynb)
 - Mar 23 R - **[Regularization](/regularization)**
-    - ✏️ [](/assignments/regularization-hw.ipynb)
+    - ✏️ [regularization-hw.ipynb](/assignments/regularization-hw.ipynb)
 - Mar 28 T - **Classification, confusion matrix, ROC curve**
     - ✏️ [](/assignments/classification-hw.ipynb)
 - Mar 30 R - **Support Vector Machine (SVM) classifier**
