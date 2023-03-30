@@ -1,0 +1,32 @@
+/*  Custom Jupyter notebook markdown cell styling for
+    Programming and Data Analysis for Modern Neuroscience
+    Spring 2023
+
+    e.g.,
+    strong {...} is for normal notebook view after running HTML cell that loads this CSS
+    .reveal strong {...} is for RISE reveal.js slideshow which automatically loads the file rise.css
+*/
+
+:root {
+    --UT_burnt_orange: rgb(191, 87, 0);
+    --UT_gray: rgb(51, 63, 72);
+    --UT_split_complementary_blue: rgb(0, 127, 237);
+    --UT_lighter_orange: rbg(254, 139, 61);
+    --UT_darker_orange: rgb(130, 37, 0);
+}
+
+p, li, .reveal p, li {
+    color: var(UT_gray);
+}
+
+h1, h2, h3, h4, h5, h6, .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    color: var(--UT_burnt_orange);
+}
+
+strong, .reveal strong {
+    color: var(--UT_split_complementary_blue);
+}
+
+em, .reveal em {
+    color: var(--UT_burnt_orange);
+}
