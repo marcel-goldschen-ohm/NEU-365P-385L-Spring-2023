@@ -157,11 +157,10 @@ It is about:
     - ✏️ [glm-hw.ipynb](/assignments/glm-hw.ipynb)
 - Mar 23 R - **[Regularization](/regularization)**
     - ✏️ [regularization-hw.ipynb](/assignments/regularization-hw.ipynb)
-- Mar 28 T - **Classification, confusion matrix, ROC curve**
-    - ✏️ [](/assignments/classification-hw.ipynb)
-- Mar 30 R - **Support Vector Machine (SVM) classifier**
-    - ✏️ [](/assignments/svm-hw.ipynb)
-- Apr 04 T - VIDEO ONLY - **Random forest (bagging) & XGBoost (boosting) classifiers**
+- Mar 28 T - **[Classification, confusion matrix, ROC curve](/classification)**
+- Mar 30 R - **[Support Vector Machine (SVM), Random forest (bagging) & XGBoost (boosting) classifies](/svm-bagging-boosting)**
+    - ✏️ [classification-hw.ipynb](/assignments/classification-hw.ipynb)
+- Apr 04 T - VIDEO ONLY - **Classes & Modules**
     - ✏️ [](/assignments/random-forest-hw.ipynb)
 - Apr 06 R - **Clustering**
     - ✏️ [](/assignments/clustering-hw.ipynb)
