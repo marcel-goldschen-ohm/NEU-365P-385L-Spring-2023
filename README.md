@@ -162,7 +162,7 @@ It is about:
     - ✏️ [classification-hw.ipynb](/assignments/classification-hw.ipynb)
 - Apr 04 T - VIDEO ONLY - **Classes & Modules**
     - ✏️ [](/assignments/random-forest-hw.ipynb)
-- Apr 06 R - **Clustering**
+- Apr 06 R - **[Clustering](/clustering)**
     - ✏️ [](/assignments/clustering-hw.ipynb)
 - Apr 11 T - **Principal Component Analysis (PCA)**
     - ✏️ [](/assignments/pca-hw.ipynb)
