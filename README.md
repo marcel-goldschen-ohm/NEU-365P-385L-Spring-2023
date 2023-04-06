@@ -170,7 +170,6 @@ It is about:
 - Apr 18 T - **Neural Network (NN)**
     - ✏️ [](/assignments/neural-net-hw.ipynb), 🎬 [Excellent Neural Networks video series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - Apr 20 R - **Convolutional Neural Network (CNN)**
-    - ✏️ [](/assignments/CNN-hw.ipynb)
 - EXTRA - **Long/Short Term Memory (LSTM) Recurrent Neural Network (RNN)**
 - EXTRA - **Numba & Python basics 3: Classes & modules**
     - 🎬 [An opinion on classes and object-oriented programming (OOP)](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
