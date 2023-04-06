@@ -161,7 +161,6 @@ It is about:
 - Mar 30 R - **[Support Vector Machine (SVM), Random forest (bagging) & XGBoost (boosting) classifies](/svm-bagging-boosting)**
     - ✏️ [classification-hw.ipynb](/assignments/classification-hw.ipynb)
 - Apr 04 T - VIDEO ONLY - **Classes & Modules**
-    - ✏️ [](/assignments/random-forest-hw.ipynb)
 - Apr 06 R - **[Clustering](/clustering)**
     - ✏️ [clustering-hw.ipynb](/assignments/clustering-hw.ipynb)
 - Apr 11 T - **Principal Component Analysis (PCA)**
