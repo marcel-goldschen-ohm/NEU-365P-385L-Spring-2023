@@ -163,7 +163,7 @@ It is about:
 - Apr 04 T - VIDEO ONLY - **Classes & Modules**
     - ✏️ [](/assignments/random-forest-hw.ipynb)
 - Apr 06 R - **[Clustering](/clustering)**
-    - ✏️ [](/assignments/clustering-hw.ipynb)
+    - ✏️ [clustering-hw.ipynb](/assignments/clustering-hw.ipynb)
 - Apr 11 T - **Principal Component Analysis (PCA)**
     - ✏️ [](/assignments/pca-hw.ipynb)
 - Apr 13 R - **RNAseq lab**
