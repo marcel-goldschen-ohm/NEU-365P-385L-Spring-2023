@@ -161,6 +161,7 @@ It is about:
 - Mar 30 R - **[Support Vector Machine (SVM), Random forest (bagging) & XGBoost (boosting) classifies](/svm-bagging-boosting)**
     - ✏️ [classification-hw.ipynb](/assignments/classification-hw.ipynb)
 - Apr 04 T - VIDEO ONLY - **Classes & Modules**
+    - 🎬 [An opinion on classes and object-oriented programming (OOP)](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
 - Apr 06 R - **[Clustering](/clustering)**
     - ✏️ [clustering-hw.ipynb](/assignments/clustering-hw.ipynb)
 - Apr 11 T - **[Principal Component Analysis (PCA)](/principal-component-analysis)**
@@ -170,8 +171,6 @@ It is about:
     - ✏️ [](/assignments/neural-net-hw.ipynb), 🎬 [Excellent Neural Networks video series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - Apr 20 R - **Convolutional Neural Network (CNN)**
 - EXTRA - **Long/Short Term Memory (LSTM) Recurrent Neural Network (RNN)**
-- EXTRA - **Numba & Python basics 3: Classes & modules**
-    - 🎬 [An opinion on classes and object-oriented programming (OOP)](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
 
 # Setup your Python environment
 ## 1. Install Conda
