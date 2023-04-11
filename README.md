@@ -142,7 +142,7 @@ It is about:
     - ✏️ [time-series-hw.ipynb](/assignments/time-series-hw.ipynb)
 - Feb 16 R - **[Leaky Integrate & Fire (LIF) neuron](/LIF-neuron-model)**
     - ✏️ [neuron-simulation-hw.ipynb](/assignments/neuron-simulation-hw.ipynb)
-- Feb 21 T - VIDEO ONLY - **[Data tables](/pandas-dataframe)**
+- Feb 21 T - **[Data tables](/pandas-dataframe)**
 - Feb 23 R - **[LIF neuron](/LIF-neuron-model) and [Hidden Markov Models (HMMs)](/hidden-markov-model)**
 - Feb 28 T - **[Hidden Markov Models (HMMs)](/hidden-markov-model)**
 - Mar 02 R - **[Linear regression](/linear-regression)**
@@ -160,7 +160,7 @@ It is about:
 - Mar 28 T - **[Classification, confusion matrix, ROC curve](/classification)**
 - Mar 30 R - **[Support Vector Machine (SVM), Random forest (bagging) & XGBoost (boosting) classifies](/svm-bagging-boosting)**
     - ✏️ [classification-hw.ipynb](/assignments/classification-hw.ipynb)
-- Apr 04 T - VIDEO ONLY - **Classes & Modules**
+- Apr 04 T - **Classes & Modules**
     - 🎬 [An opinion on classes and object-oriented programming (OOP)](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
 - Apr 06 R - **[Clustering](/clustering)**
     - ✏️ [clustering-hw.ipynb](/assignments/clustering-hw.ipynb)
