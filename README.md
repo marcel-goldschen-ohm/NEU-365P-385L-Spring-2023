@@ -165,7 +165,7 @@ It is about:
 - Apr 06 R - **[Clustering](/clustering)**
     - ✏️ [clustering-hw.ipynb](/assignments/clustering-hw.ipynb)
 - Apr 11 T - **[Principal Component Analysis (PCA)](/principal-component-analysis)**
-- Apr 13 R - **RNAseq lab**
+- Apr 13 R - **[PCA for EEG waveforms](/EEG-PCA) and [RNAseq lab](/RNAseq-lab)**
     - ✏️ [](/assignments/pca-hw.ipynb), 📰 [Recent article relevant to dimensionality reduction](https://doi.org/10.1038/s43588-022-00380-4)
 - Apr 18 T - **Neural Network (NN)**
     - ✏️ [](/assignments/neural-net-hw.ipynb), 🎬 [Excellent Neural Networks video series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
