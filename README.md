@@ -167,10 +167,9 @@ It is about:
 - Apr 11 T - **[Principal Component Analysis (PCA)](/principal-component-analysis)**
 - Apr 13 R - **[PCA for EEG waveforms](/EEG-PCA) & [RNAseq lab](/RNAseq-lab)**
     - ✏️ [pca-hw.ipynb](/assignments/pca-hw.ipynb), 📰 [Recent article relevant to dimensionality reduction](https://doi.org/10.1038/s43588-022-00380-4)
-- Apr 18 T - **Neural Network (NN)**
+- Apr 18 T - **Neural Networks (NNs)**
     - ✏️ [](/assignments/neural-net-hw.ipynb), 🎬 [Excellent Neural Networks video series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - Apr 20 R - **Convolutional Neural Network (CNN)**
-- EXTRA - **Long/Short Term Memory (LSTM) Recurrent Neural Network (RNN)**
 
 # Setup your Python environment
 ## 1. Install Conda
