@@ -160,7 +160,7 @@ It is about:
 - Mar 28 T - **[Classification, confusion matrix, ROC curve](/classification)**
 - Mar 30 R - **[Support Vector Machine (SVM), Random forest (bagging) & XGBoost (boosting) classifies](/svm-bagging-boosting)**
     - ✏️ [classification-hw.ipynb](/assignments/classification-hw.ipynb)
-- Apr 04 T - **Classes & Modules**
+- Apr 04 T - **[Python basics 3: Classes & Modules](/python-basics-3)**
     - 🎬 [An opinion on classes and object-oriented programming (OOP)](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
 - Apr 06 R - **[Clustering](/clustering)**
     - ✏️ [clustering-hw.ipynb](/assignments/clustering-hw.ipynb)
