@@ -171,6 +171,10 @@ It is about:
     - ✏️ [](/assignments/neural-net-hw.ipynb), 🎬 [Excellent Neural Networks video series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - Apr 20 R - **[Convolutional Neural Network (CNN)](/neural-network)**
 
+Additional topics I wish we had the time to cover:
+- Recurrent Neural Networks (RNNs)
+- Bayesian probability
+
 # Setup your Python environment
 ## 1. Install Conda
 Download and install the latest version of [Miniconda3](https://docs.conda.io/en/latest/miniconda.html).
